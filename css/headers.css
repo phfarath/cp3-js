@@ -3,10 +3,10 @@
     height: 100px;
     display:flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0 20px;
+    justify-content: center;
+    padding: 20px 20px;
     position: absolute;
-    top: 0px;
+    top: 10px;
     color: #dac8bc;
     
 }
@@ -14,7 +14,7 @@
     display: flex;
     gap: 20px;
 }
-.header-menu a{color: rgb(255, 255, 255);}
+.header-menu a{color: #dac8bc;}
 a:hover{
-    color: purple !important;
+    color: #63c5da !important;
 }

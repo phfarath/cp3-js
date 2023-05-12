@@ -6,9 +6,6 @@
 ul,ol{
     list-style: none;
 }
-a{
-    text-decoration: none;
-}
 body{
     background-color: #151e3d;
 }
@@ -54,4 +51,9 @@ body{
 a{
     color: #DAC8B3;
     font-size: 3vmin;
+    text-decoration: none;
+}
+h3{
+    padding-top: 30px;
+    font-size: 24px;
 }

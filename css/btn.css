@@ -59,3 +59,15 @@
     background-color: transparent;
     transition: .5s;
 }
+.btn6{
+    border: 2px transparent #a91b0d;
+    box-shadow: 1px 1px 30px #d21404;
+    border-radius: 40px;
+    background-color:#a91b0d;
+    padding: 12px;
+}
+.btn6:hover:hover{
+    padding: 16px;
+    background-color: transparent;
+    transition: .5s;
+}
